@@ -27,7 +27,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.2] - 2020-08-12
 ### Added
-- Filled out the main text content section of the homepage and added coming soons for pages with links to them.
+- Filled out the main text content section of the homepage and added coming soon's for pages with links to them.
+- Stubbed out the homepage footer area cards and finished the contact me section.
 
 ### Changed
 - Fixed a bug #1 on mobile where the size of the pics was incorrect and caused horizontal scroll bars.
+- Fixed a bug with the app footer covering the homepage footer area. 
