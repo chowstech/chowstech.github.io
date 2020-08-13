@@ -1,6 +1,6 @@
 This repository contains the production code for https://www.chrishoward.guru.
 
-![chowworks] [![DontUse][license-badge]][license] [![MyChangeLog][changelog-badge]][changelog] [![Version 1.0.2 Badge][version-badge]][changelog]
+[![chowworks-badge]][chowworks] [![DontUse][license-badge]][license] [![MyChangeLog][changelog-badge]][changelog] [![Version 1.0.2 Badge][version-badge]][changelog]
 
 
 
@@ -23,4 +23,5 @@ Thank you for your help and improving my site, one issue at a time!
 [license]: ./LICENSE.md
 [version-badge]: https://img.shields.io/badge/version-1.0.2-blue.svg
 [license-badge]: https://img.shields.io/badge/license-DontUseMyIsh-yellow
-[chowworks]: https://img.shields.io/badge/SupportedBy-ChowWorks-blue
+[chowworks-badge]: https://img.shields.io/badge/SupportedBy-ChowWorks-blue
+[chowworks]: https://www.chrishoward.guru/home
