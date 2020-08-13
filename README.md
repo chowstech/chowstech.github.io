@@ -7,7 +7,7 @@ This repository contains the production code for https://www.chrishoward.guru.
 This is my personal website, if your a dev you should have one too!
 
 ## Development
-This project is mainly just my hosting site. If you want information how to create a site using github as hosting see this link: XXXXX
+This project is mainly just my hosting site. If you want information how to create a site using github as hosting see this link: https://medium.com/swlh/how-to-host-your-angular-reactjs-vuejs-spa-on-github-pages-2d9ab102ac7b
 
 If you really for some reason want to see the raw code for this site (which was done in Angular v10) go here: https://github.com/chowworks/chowworks-webpage 
 
