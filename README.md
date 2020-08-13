@@ -1,6 +1,7 @@
 This repository contains the production code for https://www.chrishoward.guru.
 
-[![chowworks-badge]][chowworks] [![DontUse][license-badge]][license] [![MyChangeLog][changelog-badge]][changelog] [![Version 1.0.2 Badge][version-badge]][changelog]
+[![chowworks-badge]][chowworks] [![DontUse][license-badge]][license] [![MyChangeLog][changelog-badge]][changelog] [![Version 1.0.2 Badge][version-badge]][changelog] [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 
 
 
