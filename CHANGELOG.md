@@ -44,7 +44,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implemented the faces/memes/quotes section of the homepage. 
 - Implemented the contact me section of the homepage.
 - Implemented the certification section of the homepage.
-- Added a link to the footer back to my gitlab page. 
+- Added a link to the footer back to my gitlab page.
+- Added Google Analytics for tracking website hits. 
 
 ### Fixed
 - Fixed the display of the bottom homepage content section on mobile.
