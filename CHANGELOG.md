@@ -39,10 +39,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed a bug #1 on mobile where the size of the pics was incorrect and caused horizontal scroll bars.
 - Fixed a bug with the app footer covering the homepage footer area. 
 
-## [1.0.3] - 2020-08-14
+## [1.0.3] - 2020-08-15
 ### Added
 - Implemented the faces/memes/quotes section of the homepage. 
 - Implemented the contact me section of the homepage.
+- Implemented the certification section of the homepage.
 
 ### Fixed
 - Fixed the display of the bottom homepage content section on mobile.
+- Fixed a layout issue with the homepage main pic on safari and chrome on iOS.
+
+### Changed
+- Centered the content of jokes component and added a section divider.
