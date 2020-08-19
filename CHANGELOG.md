@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 - Added Single Sign on via Auth0 for my protected project pages. 
+- Added stubs for the projects/teaching/about pages.
 
 
 ## [1.0.0] - 2020-08-03
